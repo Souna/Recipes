@@ -1,2 +1,2 @@
 # Recipes
-Practice assignment for The Odin Project
+Practice assignment #1 for The Odin Project
